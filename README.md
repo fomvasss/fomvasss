@@ -4,7 +4,6 @@
 ## 🛠️ Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Laradock](https://img.shields.io/badge/Laradock-2496ED?logo=docker&logoColor=white)
 ![Forge](https://img.shields.io/badge/Laravel%20Forge-F55247?logo=laravel&logoColor=white)
@@ -18,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ## 📊 Statistic GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fomvasss&show_icons=true&theme=tokyonight)
