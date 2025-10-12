@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🧠 About me
+- 🔭 I work on large-scale systems, online stores, CRM, and AI interaction
+- ⚙️ I develop backends for online stores, API integrations (payment systems, delivery services, logistics systems), and integrations with Telegram, Instagram, Facebook, WhatsApp, and SMS communication channels
+- 💬 You can ask me about PHP, Laravel, API, or architectural solutions related to databases, servers, or backends
+- 🧩 I know how to combine code, infrastructure, and automation
+- ⚡ I love structure, clean architecture, and optimization of everything
+
 
 ## 🛠️ Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
