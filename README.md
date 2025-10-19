@@ -9,13 +9,13 @@
 
 
 ## 🛠️ Technologies
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Laradock](https://img.shields.io/badge/Laradock-2496ED?logo=docker&logoColor=white)
 ![Forge](https://img.shields.io/badge/Laravel%20Forge-F55247?logo=laravel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
