@@ -7,6 +7,15 @@
 - 🧩 I know how to combine code, infrastructure, and automation
 - ⚡ I love structure, clean architecture, and optimization of everything
 
+## Support
+
+If this repo is useful to you, consider supporting its development:
+
+[![Monobank](https://img.shields.io/badge/Donate-Monobank-black)](https://send.monobank.ua/jar/5xsqtHvVrY)
+[![Ko-Fi](https://img.shields.io/badge/Donate-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/fomvasss)
+[![USDT TRC20](https://img.shields.io/badge/Donate-USDT%20TRC20-26A17B?logo=tether&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=THLgp6DxiAtbNHvgnKV56vk1L38UuUagKf&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)
+
+> USDT TRC20 address: `THLgp6DxiAtbNHvgnKV56vk1L38UuUagKf`
 
 ## 🛠️ Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -52,13 +61,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Support
-
-If this repo is useful to you, consider supporting its development:
-
-[![Monobank](https://img.shields.io/badge/Donate-Monobank-black)](https://send.monobank.ua/jar/5xsqtHvVrY)
-[![Ko-Fi](https://img.shields.io/badge/Donate-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/fomvasss)
-[![USDT TRC20](https://img.shields.io/badge/Donate-USDT%20TRC20-26A17B?logo=tether&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=THLgp6DxiAtbNHvgnKV56vk1L38UuUagKf&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)
-
-> USDT TRC20 address: `THLgp6DxiAtbNHvgnKV56vk1L38UuUagKf`
 
